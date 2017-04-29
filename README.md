@@ -20,6 +20,7 @@
 ## Clients
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - An Android client.
+* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - An Android app for Mastodon.
 
 ## User styles
 
