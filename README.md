@@ -4,7 +4,7 @@
 
 ## Table of content
 
-* [Introductions](#introductions)
+* [Documentation](#documentation)
 * [Clients](#clients)
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
