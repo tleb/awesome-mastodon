@@ -52,6 +52,10 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
 * [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
 * [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
+* [theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
+* [@newsstream@quitter.im](https://quitter.im/newsstream) - News Steam
+* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
+* [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 
 ### French
 
@@ -65,6 +69,13 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@lemonde@social.bitcast.info](https://social.bitcast.info/lemonde) - Le Monde
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
+* [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
+* [@afpfr@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@afpfr) - Agence France-Presse
+* [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
+* [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
+* [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
+* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
+* [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
 
 ## Librairies
 
