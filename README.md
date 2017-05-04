@@ -9,6 +9,7 @@
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
 * [Bots](#bots)
+* [News & magazines bots](#news-magazines-bots)
 * [Librairies](#librairies)
 * [Bot frameworks](#bot-frameworks)
 
@@ -42,24 +43,28 @@
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 
-### News & magazines bots
-Please note : most of them are non-official. We do not *recommend* any, they are listed here for your information in no particular order.  
+## News & magazines bots
+Please note: most of them are non-official. We do not *recommend* any, they are listed here for your information, in no particular order.
 
-* [France info](https://mastodon.nuzgo.net/@franceinfo)  
-* [L'express](https://framapiaf.org/@lexpress)
-* [Sciences et avenir](https://framapiaf.org/@sciencesetavenirbot)
-* [Ars technica](https://social.undernet.uy/arstechnica)
-* [Wired](https://social.undernet.uy/wired)
-* [Le Gorafi](https://mastodon.social/@le_gorafi)
-* [Les jours](https://mamot.fr/@lesjoursfr)
-* [The Guardian](https://social.undernet.uy/guardian)
-* [Le Figaro](https://mastodon.social/@le_figaro)
-* [BBC News](https://social.undernet.uy/bbc)
-* [Mediapart](https://mastodon.social/@Mediapart)
-* [Le Monde](https://social.bitcast.info/lemonde)
-* [Libération](https://mamot.fr/@libe)
-* [Le Monde diplomatique](https://mamot.fr/@mdiplo)
-* to be continued…
+### English
+
+* [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica
+* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
+* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
+* [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
+
+### French
+
+* [@granceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
+* [@lexpress@framapiaf.org](https://framapiaf.org/@lexpress) - L'Express
+* [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
+* [@le_gorafi@mastodon.social](https://mastodon.social/@le_gorafi) - Le Gorafi
+* [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
+* [@le_figaro@mastodon.social](https://mastodon.social/@le_figuaro) - Le Figaro
+* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart
+* [@lemonde@social.bitcast.info](https://social.bitcast.info/lemonde) - Le Monde
+* [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
+* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
 
 ## Librairies
 
