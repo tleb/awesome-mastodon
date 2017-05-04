@@ -42,6 +42,25 @@
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 
+### News & magazines bots
+Please note : most of them are non-official. We do not *recommend* any, they are listed here for your information in no particular order.  
+
+* [France info](https://mastodon.nuzgo.net/@franceinfo)  
+* [L'express](https://framapiaf.org/@lexpress)
+* [Sciences et avenir](https://framapiaf.org/@sciencesetavenirbot)
+* [Ars technica](https://social.undernet.uy/arstechnica)
+* [Wired](https://social.undernet.uy/wired)
+* [Le Gorafi](https://mastodon.social/@le_gorafi)
+* [Les jours](https://mamot.fr/@lesjoursfr)
+* [The Guardian](https://social.undernet.uy/guardian)
+* [Le Figaro](https://mastodon.social/@le_figaro)
+* [BBC News](https://social.undernet.uy/bbc)
+* [Mediapart](https://mastodon.social/@Mediapart)
+* [Le Monde](https://social.bitcast.info/lemonde)
+* [Libération](https://mamot.fr/@libe)
+* [Le Monde diplomatique](https://mamot.fr/@mdiplo)
+* to be continued…
+
 ## Librairies
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
