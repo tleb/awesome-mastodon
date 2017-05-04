@@ -76,6 +76,9 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
 * [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
+* [@fakir@mamot.fr](https://mamot.fr/@fakir) - Fakir
+* [@letemps@mastodon.blue](https://mamot.fr/@fakir) - Le Temps
+* [@courrierinterbot@friends.nico](https://friends.nico/@courrierinterbot)- Courrier international
 
 ## Librairies
 
