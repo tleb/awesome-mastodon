@@ -78,7 +78,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
 * [@fakir@mamot.fr](https://mamot.fr/@fakir) - Fakir
 * [@letemps@mastodon.blue](https://mamot.fr/@fakir) - Le Temps
-* [@courrierinterbot@friends.nico](https://friends.nico/@courrierinterbot)- Courrier international
+* [@courrierinterbot@friends.nico](https://friends.nico/@courrierinterbot) - Courrier international
 
 ## Librairies
 
