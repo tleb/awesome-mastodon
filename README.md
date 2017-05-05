@@ -59,26 +59,27 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 
 ### French
 
-* [@granceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
-* [@lexpress@framapiaf.org](https://framapiaf.org/@lexpress) - L'Express
-* [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
-* [@le_gorafi@mastodon.social](https://mastodon.social/@le_gorafi) - Le Gorafi
-* [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
-* [@le_figaro@mastodon.social](https://mastodon.social/@le_figuaro) - Le Figaro
-* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart
-* [@lemonde@social.bitcast.info](https://social.bitcast.info/lemonde) - Le Monde
-* [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
-* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
-* [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
+
 * [@afpfr@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@afpfr) - Agence France-Presse
+* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
+* [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international
+* [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
+* [@franceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
+* [@letemps@mastodon.blue](https://mastodon.blue/@letemps) - Le Temps
+* [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
+* [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
+* [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
+* [@le_figaro@mastodon.social](https://mastodon.social/@le_figuaro) - Le Figaro
+* [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
 * [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
+* [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
+* [@lexpress@framapiaf.org](https://framapiaf.org/@lexpress) - L'Express
+* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
+* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
-* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
-* [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
-* [@fakir@mamot.fr](https://mamot.fr/@fakir) - Fakir
-* [@letemps@mastodon.blue](https://mamot.fr/@fakir) - Le Temps
-* [@courrierinterbot@friends.nico](https://friends.nico/@courrierinterbot) - Courrier international
+* [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
+* [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
 ## Librairies
 
