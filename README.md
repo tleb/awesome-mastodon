@@ -84,7 +84,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
-## Blogs
+#### Blogs
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/korbenbot) - Korben (bot)
 
 
