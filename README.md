@@ -60,6 +60,9 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@intercept@social.undernet.uy](https://social.undernet.uy/@intercept) - The Intercept
 * [@wired@social.undernet.uy](https://social.undernet.uy/@wired) - Wired
 
+#### Blogs
+* [@xkcd@social.undernet.uy](https://social.undernet.uy/@xkcd) - XKCD
+
 ### French
 
 
@@ -67,11 +70,13 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
 * [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
+* [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) - DATA Gueule
 * [@franceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
 * [@letemps@mastodon.blue](https://mastodon.blue/@letemps) - Le Temps
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
 * [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
+* [@lecanardenchaine](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
 * [@lefigarobot@politebot.com](https://politebot.com/@lefigarobot) - Le Figaro
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
 * [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
@@ -80,6 +85,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapart) - Mediapart bot actif
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
+* [@numerama@social.numerama.com](https://social.numerama.com/@numerama) - Numerama
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info
 * [@rtsinfobot@mastodon.blue](https://mastodon.blue/@rtsinfobot) - RTS Info
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
@@ -87,12 +93,17 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
 #### Blogs
+* [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / epenser
 * [commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
+* [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale
+* [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
 
 #### Associations
 * [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
 * [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac france
+* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
+* (https://mamot.fr/@LaQuadrature) - La Quadrature du net
 
 #### Entertainment
 * [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
