@@ -94,7 +94,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 
 #### Blogs
 * [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / epenser
-* [commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
+* [@commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
@@ -103,7 +103,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
 * [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac france
 * [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
-* (https://mamot.fr/@LaQuadrature) - La Quadrature du net
+* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du net
 
 #### Entertainment
 * [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
