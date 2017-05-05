@@ -34,7 +34,7 @@
 * [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
 * [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
 
-## Bots
+#### Bots
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses rss feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - A bot which posts user statistics to Mastodon (Python).
@@ -52,9 +52,9 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
 * [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
 * [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
+* [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
 * [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream
-* [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 * [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
 * [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
 * [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
