@@ -101,9 +101,11 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 #### Blogs
 * [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / epenser
 * [@commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
+* [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
+* [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon
 
 #### Associations
 * [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
