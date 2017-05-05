@@ -48,16 +48,16 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 
 ### English
 
-* [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica
-* [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
+* [@arstechnica@social.undernet.uy](https://social.undernet.uy/@arstechnica) - Ars Technica
+* [@bbc@social.undernet.uy](https://social.undernet.uy/@bbc) - BBC
 * [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
-* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
+* [@guiardian@social.undernet.uy](https://social.undernet.uy/@guardian) - Guardian
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
-* [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream
-* [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
-* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
-* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
+* [@newsstream@quitter.im](https://quitter.im/@newsstream) - NewsStream
+* [@theverge@social.undernet.uy](https://social.undernet.uy/@theverge) - The Verge
+* [@intercept@social.undernet.uy](https://social.undernet.uy/@intercept) - The Intercept
+* [@wired@social.undernet.uy](https://social.undernet.uy/@wired) - Wired
 
 ### French
 
@@ -85,7 +85,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
 #### Blogs
-* [@korbenbot@mastodon.xyz](https://mastodon.xyz/korbenbot) - Korben (bot)
+* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
 
 
 ## Librairies
