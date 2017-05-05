@@ -60,8 +60,14 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@intercept@social.undernet.uy](https://social.undernet.uy/@intercept) - The Intercept
 * [@wired@social.undernet.uy](https://social.undernet.uy/@wired) - Wired
 
+#### Associations
+* [@openrightsgroupbot@mastodon.blue](https://mastodon.blue/@openrightsgroupbot) - Open Rights Group
+* [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project
+
 #### Blogs
 * [@xkcd@social.undernet.uy](https://social.undernet.uy/@xkcd) - XKCD
+
+
 
 ### French
 
@@ -107,6 +113,9 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 
 #### Entertainment
 * [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
+
+#### Politics
+* [@PartiPirate@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirate) - Parti pirate
 
 ## Librairies
 
