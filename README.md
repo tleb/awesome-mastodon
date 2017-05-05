@@ -49,13 +49,15 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 ### English
 
 * [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica
-* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
-* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
 * [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
-* [theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
-* [@newsstream@quitter.im](https://quitter.im/newsstream) - News Steam
-* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
+* [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
+* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
+* [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
+* [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
+* [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
+* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
+* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
 
 ### French
 
@@ -75,8 +77,10 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
 * [@lexpress@framapiaf.org](https://framapiaf.org/@lexpress) - L'Express
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
-* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart
+* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
+* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapart) - Mediapart bot actif
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
+* [@rtsinfobot@mastodon.blue](https://mastodon.blue/@rtsinfobot) - RTS Info
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
 * [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
