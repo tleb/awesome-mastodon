@@ -71,11 +71,10 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
 * [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
-* [@le_figaro@mastodon.social](https://mastodon.social/@le_figuaro) - Le Figaro
+* [@lefigarobot@politebot.com](https://politebot.com/@lefigarobot) - Le Figaro
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
 * [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
-* [@lexpress@framapiaf.org](https://framapiaf.org/@lexpress) - L'Express
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapart) - Mediapart bot actif
