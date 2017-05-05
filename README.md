@@ -83,7 +83,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
-* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapart) - Mediapart bot actif
+* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
 * [@numerama@social.numerama.com](https://social.numerama.com/@numerama) - Numerama
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info
