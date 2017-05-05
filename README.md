@@ -51,6 +51,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@arstechnica@social.undernet.uy](https://social.undernet.uy/@arstechnica) - Ars Technica
 * [@bbc@social.undernet.uy](https://social.undernet.uy/@bbc) - BBC
 * [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
+* [@fsf@status.fsf.org](https://status.fsf.org/@fsf) - FSF Free Software Foundation
 * [@guiardian@social.undernet.uy](https://social.undernet.uy/@guardian) - Guardian
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
@@ -79,14 +80,22 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapart) - Mediapart bot actif
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
+* [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info
 * [@rtsinfobot@mastodon.blue](https://mastodon.blue/@rtsinfobot) - RTS Info
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
 * [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
 #### Blogs
+* [commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
 
+#### Associations
+* [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
+* [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac france
+
+#### Entertainment
+* [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
 
 ## Librairies
 
