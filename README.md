@@ -44,7 +44,7 @@
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 
 ## News & magazines bots
-Please note: most of them are non-official. We do not *recommend* any, they are listed here for your information, in no particular order.
+Please note: most of them are non-official. We do not *recommend* any, they are listed here for your information.
 
 ### English
 
