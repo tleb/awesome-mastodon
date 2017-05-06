@@ -9,9 +9,10 @@
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
 * [Bots](#bots)
+* [Associatons](#associatons)
+* [Blogs](#blogs)
 * [News & magazines bots](#news-magazines-bots)
 * [Librairies](#librairies)
-* [Bot frameworks](#bot-frameworks)
 
 ## Documentation
 
@@ -34,7 +35,7 @@
 * [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
 * [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
 
-#### Bots
+## Bots
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses rss feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - A bot which posts user statistics to Mastodon (Python).
@@ -44,34 +45,25 @@
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 
 ## News & magazines bots
-Please note: most of them are non-official. We do not *recommend* any, they are listed here for your information.
+
+Please note: most of them are non-official. Also, we do not *recommend* any, they are just listed here for your information.
 
 ### English
 
-* [@arstechnica@social.undernet.uy](https://social.undernet.uy/@arstechnica) - Ars Technica
-* [@bbc@social.undernet.uy](https://social.undernet.uy/@bbc) - BBC
+* [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica
+* [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
 * [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
 * [@fsf@status.fsf.org](https://status.fsf.org/@fsf) - FSF Free Software Foundation
-* [@guiardian@social.undernet.uy](https://social.undernet.uy/@guardian) - Guardian
+* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
-* [@newsstream@quitter.im](https://quitter.im/@newsstream) - NewsStream
-* [@theverge@social.undernet.uy](https://social.undernet.uy/@theverge) - The Verge
-* [@intercept@social.undernet.uy](https://social.undernet.uy/@intercept) - The Intercept
-* [@wired@social.undernet.uy](https://social.undernet.uy/@wired) - Wired
-
-#### Associations
+* [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream
 * [@openrightsgroupbot@mastodon.blue](https://mastodon.blue/@openrightsgroupbot) - Open Rights Group
-* [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project
+* [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
+* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
+* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
 
-#### Blogs
-* [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman
-* [@xkcd@social.undernet.uy](https://social.undernet.uy/@xkcd) - XKCD
-
-
-
-### French
-
+### Français
 
 * [@afpfr@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@afpfr) - Agence France-Presse
 * [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
@@ -83,7 +75,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
 * [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
-* [@lecanardenchaine](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
+* [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
 * [@lefigarobot@politebot.com](https://politebot.com/@lefigarobot) - Le Figaro
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
 * [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
@@ -99,7 +91,27 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
-#### Blogs
+## Associatons
+
+### English
+
+* [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project
+
+### Français
+
+* [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
+* [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac France
+* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
+* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du Net
+
+## Blogs
+
+### English
+
+* [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman
+* [@xkcd@social.undernet.uy](https://social.undernet.uy/xkcd) - XKCD
+
+### Français
 * [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / epenser
 * [@commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
 * [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films
@@ -107,23 +119,6 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon
-
-#### Associations
-* [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
-* [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac france
-* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
-* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du net
-
-#### Entertainment
-* [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
-
-#### Politics
-* [@benoithamon@presidentielle.tech](https://presidentielle.tech/@benoithamon) - Benoit Hamon
-* [@EmmanuelMacron@presidentielle.tech](https://presidentielle.tech/@EmmanuelMacron) - Emmanuel Macro
-* [@FrancoisFillon@presidentielle.tech](https://presidentielle.tech/@FrancoisFillon) - François Fillon
-* [@PhilippePoutou@presidentielle.tech](https://presidentielle.tech/@PhilippePoutou) - Philippe Poutou
-* [@JLMelenchon@presidentielle.tech](https://presidentielle.tech/@JLMelenchon)- Jean-Luc Melenchon
-* [@PartiPirate@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirate) - Parti pirate
 
 ## Librairies
 
