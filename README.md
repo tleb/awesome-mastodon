@@ -65,6 +65,7 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project
 
 #### Blogs
+* [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman
 * [@xkcd@social.undernet.uy](https://social.undernet.uy/@xkcd) - XKCD
 
 
