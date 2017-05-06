@@ -99,7 +99,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### Français
 
-* [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
+* [@aprilorg@pouet.april.org](https://pouet.april.org/@aprilorg) - APRIL
 * [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac France
 * [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
 * [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du Net
