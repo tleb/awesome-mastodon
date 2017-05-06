@@ -34,7 +34,7 @@
 * [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
 * [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
 
-## Bots
+#### Bots
 
 * [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses rss feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - A bot which posts user statistics to Mastodon (Python).
@@ -44,41 +44,86 @@
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 
 ## News & magazines bots
-Please note: most of them are non-official. We do not *recommend* any, they are listed here for your information, in no particular order.
+Please note: most of them are non-official. We do not *recommend* any, they are listed here for your information.
 
 ### English
 
-* [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica
-* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
-* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
-* [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
-* [theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
-* [@newsstream@quitter.im](https://quitter.im/newsstream) - News Steam
-* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
+* [@arstechnica@social.undernet.uy](https://social.undernet.uy/@arstechnica) - Ars Technica
+* [@bbc@social.undernet.uy](https://social.undernet.uy/@bbc) - BBC
+* [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
+* [@fsf@status.fsf.org](https://status.fsf.org/@fsf) - FSF Free Software Foundation
+* [@guiardian@social.undernet.uy](https://social.undernet.uy/@guardian) - Guardian
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
+* [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
+* [@newsstream@quitter.im](https://quitter.im/@newsstream) - NewsStream
+* [@theverge@social.undernet.uy](https://social.undernet.uy/@theverge) - The Verge
+* [@intercept@social.undernet.uy](https://social.undernet.uy/@intercept) - The Intercept
+* [@wired@social.undernet.uy](https://social.undernet.uy/@wired) - Wired
+
+#### Associations
+* [@openrightsgroupbot@mastodon.blue](https://mastodon.blue/@openrightsgroupbot) - Open Rights Group
+* [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project
+
+#### Blogs
+* [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman
+* [@xkcd@social.undernet.uy](https://social.undernet.uy/@xkcd) - XKCD
+
+
 
 ### French
 
-* [@granceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
-* [@lexpress@framapiaf.org](https://framapiaf.org/@lexpress) - L'Express
-* [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
-* [@le_gorafi@mastodon.social](https://mastodon.social/@le_gorafi) - Le Gorafi
-* [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
-* [@le_figaro@mastodon.social](https://mastodon.social/@le_figuaro) - Le Figaro
-* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart
-* [@lemonde@social.bitcast.info](https://social.bitcast.info/lemonde) - Le Monde
-* [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
-* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
-* [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
+
 * [@afpfr@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@afpfr) - Agence France-Presse
-* [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
-* [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
-* [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
 * [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
+* [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
-* [@fakir@mamot.fr](https://mamot.fr/@fakir) - Fakir
-* [@letemps@mastodon.blue](https://mamot.fr/@fakir) - Le Temps
-* [@courrierinterbot@friends.nico](https://friends.nico/@courrierinterbot) - Courrier international
+* [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) - DATA Gueule
+* [@franceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
+* [@letemps@mastodon.blue](https://mastodon.blue/@letemps) - Le Temps
+* [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
+* [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
+* [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
+* [@lecanardenchaine](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
+* [@lefigarobot@politebot.com](https://politebot.com/@lefigarobot) - Le Figaro
+* [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
+* [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
+* [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
+* [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
+* [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
+* [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif
+* [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact
+* [@numerama@social.numerama.com](https://social.numerama.com/@numerama) - Numerama
+* [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info
+* [@rtsinfobot@mastodon.blue](https://mastodon.blue/@rtsinfobot) - RTS Info
+* [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
+* [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
+* [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
+
+#### Blogs
+* [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / epenser
+* [@commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr
+* [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films
+* [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale
+* [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker
+* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
+* [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon
+
+#### Associations
+* [@aprilorg@pouet.april.org](https://april.org/@aprilorg) - APRIL
+* [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac france
+* [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
+* [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du net
+
+#### Entertainment
+* [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
+
+#### Politics
+* [@benoithamon@presidentielle.tech](https://presidentielle.tech/@benoithamon) - Benoit Hamon
+* [@EmmanuelMacron@presidentielle.tech](https://presidentielle.tech/@EmmanuelMacron) - Emmanuel Macro
+* [@FrancoisFillon@presidentielle.tech](https://presidentielle.tech/@FrancoisFillon) - François Fillon
+* [@PhilippePoutou@presidentielle.tech](https://presidentielle.tech/@PhilippePoutou) - Philippe Poutou
+* [@JLMelenchon@presidentielle.tech](https://presidentielle.tech/@JLMelenchon)- Jean-Luc Melenchon
+* [@PartiPirate@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirate) - Parti pirate
 
 ## Librairies
 
