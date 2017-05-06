@@ -117,6 +117,11 @@ Please note: most of them are non-official. We do not *recommend* any, they are 
 * [@Koreus@koreus.social](https://koreus.social/@Koreus) - Koreus
 
 #### Politics
+* [@benoithamon@presidentielle.tech](https://presidentielle.tech/@benoithamon) - Benoit Hamon
+* [@EmmanuelMacron@presidentielle.tech](https://presidentielle.tech/@EmmanuelMacron) - Emmanuel Macro
+* [@FrancoisFillon@presidentielle.tech](https://presidentielle.tech/@FrancoisFillon) - François Fillon
+* [@PhilippePoutou@presidentielle.tech](https://presidentielle.tech/@PhilippePoutou) - Philippe Poutou
+* [@JLMelenchon@presidentielle.tech](https://presidentielle.tech/@JLMelenchon)- Jean-Luc Melenchon
 * [@PartiPirate@mastodon.partipirate.org](https://mastodon.partipirate.org/@PartiPirate) - Parti pirate
 
 ## Librairies
