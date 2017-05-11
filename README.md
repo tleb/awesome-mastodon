@@ -11,7 +11,7 @@
 * [Bots](#bots)
 * [Associatons](#associatons)
 * [Blogs](#blogs)
-* [News & magazines bots](#news-magazines-bots)
+* [News & magazines bots](#news--magazines-bots)
 * [Librairies](#librairies)
 
 ## Documentation
