@@ -11,7 +11,7 @@
 * [Bots](#bots)
 * [Associatons](#associatons)
 * [Blogs](#blogs)
-* [News & magazines bots](#news-magazines-bots)
+* [News & magazines bots](#news--magazines-bots)
 * [Librairies](#librairies)
 
 ## Documentation
@@ -76,7 +76,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
 * [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
 * [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
-* [@lefigarobot@politebot.com](https://politebot.com/@lefigarobot) - Le Figaro
+* [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) - Le Figaro
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
 * [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
