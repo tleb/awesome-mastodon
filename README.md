@@ -54,7 +54,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
 * [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
 * [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation
-* [@guiardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
+* [@guardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA
 * [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream
