@@ -52,7 +52,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 * [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica
 * [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC
-* [@eff@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@eff) - EFF
 * [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation
 * [@guardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News
@@ -65,12 +64,10 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### Français
 
-* [@afpfr@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@afpfr) - Agence France-Presse
 * [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
 * [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
 * [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) - DATA Gueule
-* [@franceinfo@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@franceinfo) - France Info
 * [@letemps@mastodon.blue](https://mastodon.blue/@letemps) - Le Temps
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
@@ -78,7 +75,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
 * [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) - Le Figaro
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
-* [@lesechos@mastodon.nuzgo.net](https://mastodon.nuzgo.net/@lesechos) - Les Echos
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - Les Jours
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - Le Monde Diplomatique
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif)
