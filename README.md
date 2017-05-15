@@ -87,6 +87,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde
 * [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
+* [@20minutes@mastodon.social](https://mastodon.social/@20minutes) - 20 Minutes
 
 ## Associatons
 
