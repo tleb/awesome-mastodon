@@ -123,9 +123,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
 
-## Bot frameworks
-
-
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
