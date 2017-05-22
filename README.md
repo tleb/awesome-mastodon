@@ -29,6 +29,7 @@
 * [Mastodon-iOS](https://itunes.apple.com/app/id1229531204) - An iOS app for Mastodon.
 * [toot](https://github.com/ihabunek/toot) - A Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - A Mastodon CLI client (Go).
+* [naumanni](https://github.com/naumanni/naumanni) - A web user interface specially designed for Mastodon.
 
 ## Tools
 
