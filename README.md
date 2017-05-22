@@ -6,6 +6,7 @@
 
 * [Documentation](#documentation)
 * [Clients](#clients)
+* [Tools](#tools)
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
 * [Bots](#bots)
@@ -26,6 +27,17 @@
 * [Twidere](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere) - An Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - An experimental multi-account Mastodon Web client written in Elm.
 * [Mastodon-iOS](https://itunes.apple.com/app/id1229531204) - An iOS app for Mastodon.
+* [toot](https://github.com/ihabunek/toot) - A Mastodon CLI client (Python).
+* [madonctl](https://github.com/McKael/madonctl) - A Mastodon CLI client (Go).
+
+## Tools
+
+* [Mastodon instances](https://instances.mastodon.xyz/list) - A list of Mastodon instances.
+* [Mastodon bridge](https://mastodon-bridge.herokuapp.com/) - Find your Twitter friends in the federated Mastodon network. As long as your friends have signed on here with both accounts, you can find them.
+* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
+* [Toot scheduler](https://instances.mastodon.xyz/list) - Schedule now, toot later!
+* [Mastodon Network Monitoring (MNM)](https://mnm.eliotberriot.com/) - Track and display browsable stats about the Mastodon network.
+* [Radar](https://radar.amberstone.digital/) - A project to map out the Fediverse.
 
 ## User styles
 
