@@ -104,7 +104,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks
 * [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir
 
-## Associatons
+## Associations
 
 ### English
 
