@@ -10,9 +10,9 @@
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
 * [Bots](#bots)
+* [News & magazines bots](#news--magazines-bots)
 * [Associatons](#associatons)
 * [Blogs](#blogs)
-* [News & magazines bots](#news--magazines-bots)
 * [Librairies](#librairies)
 
 ## Documentation
