@@ -37,7 +37,7 @@
 * [Mastodon bridge](https://mastodon-bridge.herokuapp.com/) - Find your Twitter friends in the federated Mastodon network. As long as your friends have signed on here with both accounts, you can find them.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later!
-* [Mastodon Network Monitoring (MNM)](https://mnm.eliotberriot.com/) - Track and display browsable stats about the Mastodon network.
+* [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Radar](https://radar.amberstone.digital/) - A project to map out the Fediverse.
 
 ## User styles
