@@ -26,7 +26,7 @@
 * [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - An Android app for Mastodon.
 * [Twidere](https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere) - An Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - An experimental multi-account Mastodon Web client written in Elm.
-* [Mastodon-iOS](https://itunes.apple.com/app/id1229531204) - An iOS app for Mastodon.
+* [Mustor](https://itunes.apple.com/app/id1229531204) - An iOS app for Mastodon.
 * [toot](https://github.com/ihabunek/toot) - A Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - A Mastodon CLI client (Go).
 * [naumanni](https://github.com/naumanni/naumanni) - A web user interface specially designed for Mastodon.
