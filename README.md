@@ -18,6 +18,7 @@
 ## Documentation
 
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - An introduction to Mastodon.
+* [Mastodon tutorial](http://cassolotl.tumblr.com/post/161825902540) - A quick Mastodon tutorial.
 * [Wiki](https://en.mstdn.wiki/Main_Page) - The Mastodon Community Wiki.
 
 ## Clients
