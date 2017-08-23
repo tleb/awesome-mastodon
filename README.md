@@ -78,6 +78,9 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
 * [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
 * [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
+* [@btc@framapiaf.org](https://framasphere.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts)
+* [@ethereum@framapiaf.org](https://framasphere.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts)
+* [@monero@framapiaf.org](https://framasphere.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts)
 
 ### Français
 
@@ -133,6 +136,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot)
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon
+* [@carlchenet@mastodon.social](https://mastodon.social/@carlchenet) - Carl Chenet - Entreprendre dans le Libre
 
 ## Librairies
 
