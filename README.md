@@ -1,6 +1,6 @@
 # Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://joinmastodon.org/static/media/logo_full.97822390.svg" align="right" width="100">](https://joinmastodon.org)
+[<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="100">](https://joinmastodon.org)
 
 > Curated list of Mastodon-related stuff!
 
