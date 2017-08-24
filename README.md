@@ -78,6 +78,9 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge
 * [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept
 * [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired
+* [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts)
+* [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts)
+* [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts)
 
 ### Français
 
