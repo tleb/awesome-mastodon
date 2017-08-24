@@ -89,7 +89,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@letemps@mastodon.blue](https://mastodon.blue/@letemps) - Le Temps
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération
-* [@limportant@social.mordicux.xyz](https://social.mordicux.xyz/@limportant) - L'Important
 * [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné
 * [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) - Le Figaro
 * [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) - Le Gorafi
