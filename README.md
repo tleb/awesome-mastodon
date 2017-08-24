@@ -81,7 +81,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### Français
 
-* [@20minutes@mastodon.social](https://mastodon.social/@20minutes) - 20 Minutes
 * [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) - BFMTV
 * [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte
