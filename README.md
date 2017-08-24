@@ -6,7 +6,7 @@
 
 **Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
 
-## Table of content
+## Contents
 
 * [Official](#official)
 * [Documentation](#documentation)
