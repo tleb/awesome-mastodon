@@ -72,7 +72,7 @@
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 * [Boost](https://gitlab.com/chaica/boost) - Automatically boosts toots from users (Python)
-* [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python)
+* [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
 
 ## News & magazines bots
 
