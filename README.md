@@ -39,7 +39,7 @@
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later!
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
-* [Radar](http://radar.amberstone.digital/) - A project to map out the Fediverse.
+* [Radar](https://radar.amberstone.digital/) - A project to map out the Fediverse.
 
 ## User styles
 
