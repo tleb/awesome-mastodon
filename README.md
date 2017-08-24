@@ -11,7 +11,7 @@
 * [User scripts](#user-scripts)
 * [Bots](#bots)
 * [News & magazines bots](#news--magazines-bots)
-* [Associatons](#associatons)
+* [Associations](#associatons)
 * [Blogs](#blogs)
 * [Librairies](#librairies)
 
@@ -39,7 +39,7 @@
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later!
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
-* [Radar](https://radar.amberstone.digital/) - A project to map out the Fediverse.
+* [Radar](http://radar.amberstone.digital/) - A project to map out the Fediverse.
 
 ## User styles
 
@@ -114,6 +114,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@aprilorg@pouet.april.org](https://pouet.april.org/@aprilorg) - APRIL
 * [@Attac@mamot.fr](https://mamot.fr/@Attac) - Attac France
 * [@acrimed@mamot.fr](https://mamot.fr/@acrimed) - Acrimed
+* [@framasoft@framapiaf.org](https://framapiaf.org/@Framasoft) - Framasoft
 * [@LaQuadrature@mamot.fr](https://mamot.fr/@LaQuadrature) - La Quadrature du Net
 
 ## Blogs
