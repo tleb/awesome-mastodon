@@ -4,6 +4,6 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --skip-save-results -w hackernoon.com,radar.amberstone.digital
+  - awesome_bot README.md --skip-save-results -w hackernoon.com,radar.amberstone.digital,joinmastodon.org
 notifications:
   email: false
