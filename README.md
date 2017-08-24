@@ -1,5 +1,7 @@
 # Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="https://joinmastodon.org/static/media/logo_full.97822390.svg" align="right" width="150">](https://joinmastodon.org)
+
 > Curated list of Mastodon-related stuff!
 
 **Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
