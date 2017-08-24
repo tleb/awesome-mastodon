@@ -43,7 +43,7 @@
 * [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
-* [naumanni](https://github.com/naumanni/naumanni) - web user interface specially designed for Mastodon.
+* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 
 ## Tools
 
@@ -72,7 +72,7 @@
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
 * [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
-* [Boost](https://gitlab.com/chaica/boost) - Automatically boosts toots from users (Python)
+* [Boost](https://gitlab.com/chaica/boost) - Automatically boosts toots from users (Python).
 
 ## News & magazines bots
 
