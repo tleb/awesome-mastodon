@@ -4,6 +4,7 @@
 
 ## Table of content
 
+* [Official](#official)
 * [Documentation](#documentation)
 * [Clients](#clients)
 * [Tools](#tools)
@@ -15,11 +16,18 @@
 * [Blogs](#blogs)
 * [Librairies](#librairies)
 
+## Official
+
+* [Website](https://joinmastodon.org)
+* [GitHub repository](https://github.com/tootsuite/mastodon)
+* [FAQ](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
+
 ## Documentation
 
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - An introduction to Mastodon.
 * [Mastodon tutorial](http://cassolotl.tumblr.com/post/161825902540) - A quick Mastodon tutorial.
 * [Wiki](https://en.mstdn.wiki/Main_Page) - The Mastodon Community Wiki.
+* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
 
 ## Clients
 
