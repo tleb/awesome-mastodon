@@ -36,14 +36,15 @@
 
 ## Clients
 
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - Android app for Mastodon.
-* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client written in Elm.
-* [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
-* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
-* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - An Android client.
+* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - An Android app for Mastodon.
+* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - An Android app for Twitter, GNU Social and Mastodon.
+* [Tooty](https://github.com/n1k0/tooty) - An experimental multi-account Mastodon Web client written in Elm.
+* [Mustor](https://itunes.apple.com/app/id1229531204) - An iOS app for Mastodon.
+* [toot](https://github.com/ihabunek/toot) - A Mastodon CLI client (Python).
+* [madonctl](https://github.com/McKael/madonctl) - A Mastodon CLI client (Go).
+* [naumanni](https://github.com/naumanni/naumanni) - A web user interface specially designed for Mastodon.
+* [Tooter](https://github.com/dysk0/harbour-tooter) - A native client for SailfishOS
 
 ## Tools
 
