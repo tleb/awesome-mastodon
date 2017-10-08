@@ -23,9 +23,9 @@
 
 ## Official
 
-* [Website](https://joinmastodon.org)
-* [GitHub repository](https://github.com/tootsuite/mastodon)
-* [FAQ](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
+* [Website](https://joinmastodon.org).
+* [GitHub repository](https://github.com/tootsuite/mastodon).
+* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md).
 
 ## Documentation
 
