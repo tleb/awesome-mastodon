@@ -23,16 +23,16 @@
 
 ## Official
 
-* [Website](https://joinmastodon.org).
-* [GitHub repository](https://github.com/tootsuite/mastodon).
-* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md).
+* [Website](https://joinmastodon.org)
+* [GitHub repository](https://github.com/tootsuite/mastodon)
+* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation
 
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
 * [Mastodon tutorial](http://cassolotl.tumblr.com/post/161825902540) - Quick Mastodon tutorial.
 * [Wiki](https://en.mstdn.wiki/Main_Page) - The Mastodon Community Wiki.
-* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md) - Using the API.
+* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
 
 ## Clients
 
