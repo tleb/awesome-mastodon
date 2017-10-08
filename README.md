@@ -49,7 +49,7 @@
 ## Tools
 
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
-* [Mastodon bridge](https://mastodon-bridge.herokuapp.com/) - Find your Twitter friends in the federated Mastodon network.
+* [Mastodon bridge](https://bridge.joinmastodon.org/) - Find your Twitter friends in the federated Mastodon network.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
@@ -89,7 +89,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA.
 * [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream.
 * [@openrightsgroupbot@mastodon.blue](https://mastodon.blue/@openrightsgroupbot) - Open Rights Group.
-* [@theverge@social.undernet.uy](https://social.undernet.uy/theverge) - The Verge.
 * [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept.
 * [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
