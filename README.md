@@ -32,24 +32,24 @@
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
 * [Mastodon tutorial](http://cassolotl.tumblr.com/post/161825902540) - Quick Mastodon tutorial.
 * [Wiki](https://en.mstdn.wiki/Main_Page) - The Mastodon Community Wiki.
-* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
+* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md) - Using the API.
 
 ## Clients
 
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - An Android client.
-* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - An Android app for Mastodon.
-* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - An Android app for Twitter, GNU Social and Mastodon.
-* [Tooty](https://github.com/n1k0/tooty) - An experimental multi-account Mastodon Web client written in Elm.
-* [Mustor](https://itunes.apple.com/app/id1229531204) - An iOS app for Mastodon.
-* [toot](https://github.com/ihabunek/toot) - A Mastodon CLI client (Python).
-* [madonctl](https://github.com/McKael/madonctl) - A Mastodon CLI client (Go).
-* [naumanni](https://github.com/naumanni/naumanni) - A web user interface specially designed for Mastodon.
-* [Tooter](https://github.com/dysk0/harbour-tooter) - A native client for SailfishOS
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
+* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - Android app for Mastodon.
+* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
+* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client written in Elm.
+* [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
+* [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
+* [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
+* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 
 ## Tools
 
-* [Mastodon instances](https://instances.social/list) - list of Mastodon instances.
-* [Mastodon bridge](https://mastodon-bridge.herokuapp.com/) - Find your Twitter friends in the federated Mastodon network. As long as your friends have signed on here with both accounts, you can find them.
+* [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
+* [Mastodon bridge](https://mastodon-bridge.herokuapp.com/) - Find your Twitter friends in the federated Mastodon network.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
@@ -67,7 +67,7 @@
 
 ## Bots
 
-* [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses rss feeds, identifies new posts and posts them on Mastodon (Python).
+* [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 * [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
 * [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
 * [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
@@ -142,6 +142,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@xkcd@social.undernet.uy](https://social.undernet.uy/xkcd) - XKCD.
 
 ### Français
+
 * [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / e-penser.
 * [@commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr.
 * [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films.
