@@ -65,6 +65,7 @@
 
 * [NSFW Remover](https://greasyfork.org/fr/scripts/29228-mastodon-nsfw-remover) - Automatically display NSFW images.
 * [Customizable interface](https://openuserjs.org/scripts/bl00m/Mastodon_Customizable_Interface) - Move and resize columns on a grid.
+* [BirdSite](https://gitlab.com/pmorinerie/birdsite) - A browser extension for cross-posting Mastodon toots to Twitter.
 
 ## Bots
 
