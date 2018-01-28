@@ -45,7 +45,7 @@
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
-* [Tootdon](http://tootdon.club) - A fully featured client for iOS and Android
+* [Tootdon](http://tootdon.club) - A fully featured client for iOS and Android.
 
 ## Tools
 
