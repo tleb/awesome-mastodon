@@ -85,16 +85,11 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### English
 
-* [@arstechnica@social.undernet.uy](https://social.undernet.uy/arstechnica) - Ars Technica.
-* [@bbc@social.undernet.uy](https://social.undernet.uy/bbc) - BBC.
 * [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation.
-* [@guardian@social.undernet.uy](https://social.undernet.uy/guardian) - Guardian.
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA.
 * [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream.
 * [@openrightsgroupbot@mastodon.blue](https://mastodon.blue/@openrightsgroupbot) - Open Rights Group.
-* [@intercept@social.undernet.uy](https://social.undernet.uy/intercept) - The Intercept.
-* [@wired@social.undernet.uy](https://social.undernet.uy/wired) - Wired.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
@@ -142,7 +137,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 ### English
 
 * [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman.
-* [@xkcd@social.undernet.uy](https://social.undernet.uy/xkcd) - XKCD.
 
 ### Français
 
