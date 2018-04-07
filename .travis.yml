@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.4.1
 before_script: gem install awesome_bot
-script: awesome_bot README.md --skip-save-results -w hackernoon.com,radar.amberstone.digital,joinmastodon.org
+script: awesome_bot README.md --skip-save-results -w hackernoon.com,joinmastodon.org
 notifications:
   email: false
