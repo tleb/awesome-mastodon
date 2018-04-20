@@ -55,7 +55,7 @@
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
-* [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co) - Explore what's currently trending in Mastodon network.
+* [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
 
 ## User styles
 
