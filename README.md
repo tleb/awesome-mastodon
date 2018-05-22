@@ -46,6 +46,7 @@
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
+* [Mastalab](https://github.com/stom79/mastalab) - Android client.
 
 ## Tools
 
