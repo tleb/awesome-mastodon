@@ -90,7 +90,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
 * [@nasa@apoil.org](https://apoil.org/@nasa) - NASA.
 * [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream.
-* [@openrightsgroupbot@mastodon.blue](https://mastodon.blue/@openrightsgroupbot) - Open Rights Group.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
@@ -101,7 +100,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - Courrier international.
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - Arte.
 * [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) - DATA Gueule.
-* [@letemps@mastodon.blue](https://mastodon.blue/@letemps) - Le Temps.
 * [@lemondebot@mastodon.xyz](https://mastodon.xyz/@lemondebot) - Le Monde.
 * [@libe@mamot.fr](https://mamot.fr/@libe) - Libération.
 * [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - Le Canard Enchaîné.
@@ -114,7 +112,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact.
 * [@numerama@social.numerama.com](https://social.numerama.com/@numerama) - Numerama.
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
-* [@rtsinfobot@mastodon.blue](https://mastodon.blue/@rtsinfobot) - RTS Info.
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde.
 
 ## Associations
