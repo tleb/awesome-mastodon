@@ -30,7 +30,6 @@
 ## Documentation
 
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
-* [Mastodon tutorial](http://cassolotl.tumblr.com/post/161825902540) - Quick Mastodon tutorial.
 * [Wiki](https://en.mstdn.wiki/Main_Page) - The Mastodon Community Wiki.
 * [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
 
@@ -40,7 +39,6 @@
 * [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - Android app for Mastodon.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
-* [Mustor](https://itunes.apple.com/app/id1229531204) - iOS app for Mastodon.
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
@@ -58,7 +56,7 @@
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
-* [Forget](http://forget.codl.fr/) - Delete toots after a user defined period of time.
+* [Forget](https://forget.codl.fr/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 
 ## User styles
 
@@ -96,7 +94,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
-* [@tedtalks@3.nu](https://3.nu/@tedtalks) - TED Talks.
 
 ### Français
 
@@ -119,7 +116,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
 * [@rtsinfobot@mastodon.blue](https://mastodon.blue/@rtsinfobot) - RTS Info.
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde.
-* [@sciencesetavenirbot@3.nu](https://3.nu/@sciencesetavenir) - Sciences et Avenir.
 
 ## Associations
 
