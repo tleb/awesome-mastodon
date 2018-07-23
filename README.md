@@ -47,6 +47,7 @@
 * [Mastalab](https://github.com/stom79/mastalab) - Android client.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - An alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
+* [Halcyon](https://notabug.org/halcyon-suite/halcyon) - A alternative web client for Mastodon and Pleroma which looks like Twitter.
 
 ## Tools
 
