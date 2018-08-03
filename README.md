@@ -30,7 +30,7 @@
 ## Documentation
 
 * [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
-* [Wiki](https://en.mstdn.wiki/Main_Page) - The Mastodon Community Wiki.
+* [Wiki](https://en.mstdn.wiki/Main_Page) - Mastodon Community Wiki.
 * [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
 
 ## Clients
@@ -45,9 +45,9 @@
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 * [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
 * [Mastalab](https://github.com/stom79/mastalab) - Android client.
-* [Pinafore](https://github.com/nolanlawson/pinafore) - An alternative web client for Mastodon, focused on speed and simplicity.
+* [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
-* [Halcyon](https://notabug.org/halcyon-suite/halcyon) - A alternative web client for Mastodon and Pleroma which looks like Twitter.
+* [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 
 ## Tools
 
@@ -58,7 +58,7 @@
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
-* [Forget](https://forget.codl.fr/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
+* [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 
 ## User styles
 
