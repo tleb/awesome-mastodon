@@ -146,6 +146,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon.
 
-## Librairies
+## Libraries
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
