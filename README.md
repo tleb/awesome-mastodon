@@ -19,7 +19,7 @@
 * [News & magazines bots](#news--magazines-bots)
 * [Associations](#associatons)
 * [Blogs](#blogs)
-* [Librairies](#librairies)
+* [Libraries](#libraries)
 
 ## Official
 
