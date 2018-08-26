@@ -36,7 +36,6 @@
 ## Clients
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - Android app for Mastodon.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
@@ -135,8 +134,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 ## Blogs
 
 ### English
-
-* [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman.
 
 ### Français
 
