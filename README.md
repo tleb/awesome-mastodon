@@ -19,7 +19,7 @@
 * [News & magazines bots](#news--magazines-bots)
 * [Associations](#associatons)
 * [Blogs](#blogs)
-* [Librairies](#librairies)
+* [Libraries](#libraries)
 
 ## Official
 
@@ -36,7 +36,6 @@
 ## Clients
 
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-* [TootyFruity](https://play.google.com/store/apps/details?id=ch.kevinegli.tootyfruity221258) - Android app for Mastodon.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
 * [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
@@ -59,6 +58,7 @@
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
+* [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
 
 ## User styles
 
@@ -95,6 +95,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
+* [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.
 
 ### Français
 
@@ -112,7 +113,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - Mediapart officiel (non actif).
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif.
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact.
-* [@numerama@social.numerama.com](https://social.numerama.com/@numerama) - Numerama.
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
 * [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde.
 
@@ -134,8 +134,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### English
 
-* [@rms@gnusocial.no](https://gnusocial.no/rms) - Richard M. Stallman.
-
 ### Français
 
 * [@epenser@apoil.org](https://apoil.org/@epenser) - Bruce Benamran / e-penser.
@@ -146,6 +144,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon.
 
-## Librairies
+## Libraries
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
