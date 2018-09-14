@@ -81,6 +81,7 @@
 * [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 * [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
 * [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
+* [Western Quakes Bot](https://mastodon.cloud/@westquake) - Toots any quake in California or Nevada at magnitude 2 or higher. New quakes will usually go out within 5 minutes.
 
 ## News & magazines bots
 
