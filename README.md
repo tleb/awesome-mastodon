@@ -152,4 +152,4 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ## Hosting
 
-* [Masto.host](https://masto.host) - Fully managed Mastodon hosting
+* [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
