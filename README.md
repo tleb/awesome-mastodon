@@ -20,6 +20,7 @@
 * [Associations](#associatons)
 * [Blogs](#blogs)
 * [Libraries](#libraries)
+* [Hosting](#hosting)
 
 ## Official
 
@@ -148,3 +149,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 ## Libraries
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
+
+## Hosting
+
+* [Masto.host](https://masto.host) - Fully managed Mastodon hosting
