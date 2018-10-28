@@ -60,7 +60,7 @@
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
-* [Blubbll's mastodon repo](https://github.com/blubbll/mastodon/blob/master/masto-key) - Random node.js script for custom, extended usage of the Mastodon (API) flow
+* [Blubbll's mastodon repo](https://github.com/blubbll/mastodon/) - Random node.js script for custom, extended usage of the Mastodon (API) flow
 
 ## User styles
 
