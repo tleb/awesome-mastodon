@@ -48,6 +48,7 @@
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
+* [Mast](https://itunes.apple.com/gb/app/mast/id1437429129) - A beautiful Mastodon app for iOS and  Watch.
 
 ## Tools
 
