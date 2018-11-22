@@ -49,6 +49,7 @@
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
+* [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
 
 ## Tools
 
