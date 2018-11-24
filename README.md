@@ -151,6 +151,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 ## Libraries
 
 * [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
+* [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
 
 ## Hosting
 
