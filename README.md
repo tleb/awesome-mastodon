@@ -51,6 +51,24 @@
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
 
+## Federated servers
+
+* [Mastodon](https://joinmastodon.org/) - Most known microblogging platform
+* [Pleroma](https://pleroma.social/) - Lightweight microblogging platform
+* [GnuSocial](https://gnu.io/social) - Oldest microblogging platform
+* [Misskey](https://joinmisskey.github.io/) - Sophisticated microblogging platform
+* [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform
+* [Osada](https://zotlabs.com/osada/) - Alternate blog / social networks platform with file, contacts and events sharing
+* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Blog / social networks platform with file, contacts and events sharing
+* [Friendica](https://friendi.ca/) - Social network platform
+* [Peertube](https://joinpeertube.org/) - Video sharing platform
+* [FunkWhale](https://funkwhale.audio/) - Audio sharing platform
+* [Plume](https://plume-org.github.io/Plume/) - Blogging platform
+* [WriteFreely](https://writefreely.org/) - Blogging platform
+* [Prismo](https://gitlab.com/mbajur/prismo) - Link aggregation platform
+* [PixelFed](https://pixelfed.org/) - Photograph sharing platform
+* [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging inside the cloud platform
+
 ## Tools
 
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
