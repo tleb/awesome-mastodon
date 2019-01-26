@@ -50,6 +50,7 @@
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
+* [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - Mastodon client for iOS.
 
 ## Tools
 
