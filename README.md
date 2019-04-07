@@ -50,6 +50,7 @@
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
+* [Share Freedom](https://addons.mozilla.org/en-US/firefox/addon/share-freedom/ Share freedom)- Firefox extension, share the current tab on the fediverse (Gnusocial, Mastodon, Hubzilla, Diaspora, Friendica, Pump.io, Socialhome and Prismo)
 
 ## Tools
 
