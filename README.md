@@ -125,6 +125,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 ### English
 
 * [@torproject@mastodon.social](https://mastodon.social/@torproject) - Tor Project.
+* [@BurungHantu@social.privacytools.io](https://social.privacytools.io/@BurungHantu) - privacytools.io.
 
 ### Français
 
