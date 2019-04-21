@@ -81,6 +81,7 @@
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
+* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/?src=external-github-awesomelist) - Redirect clicks on remote follow/interaction buttons to your own instance. ([source code](https://github.com/rugk/mastodon-simplified-federation))
 * [Mastodon Explorer](https://mastodon-explorer.netlify.com/) - Trending hashtags and popular toots, regenerated every hour.
 
 ## User styles
