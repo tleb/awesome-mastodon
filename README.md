@@ -1,6 +1,5 @@
 # Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-
 [<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
 
 > Curated list of Mastodon-related stuff!
@@ -12,6 +11,7 @@
 * [Official](#official)
 * [Documentation](#documentation)
 * [Clients](#clients)
+* [Federated servers](#federated-servers)
 * [Tools](#tools)
 * [User styles](#user-styles)
 * [User scripts](#user-scripts)
@@ -54,21 +54,21 @@
 
 ## Federated servers
 
-* [Mastodon](https://joinmastodon.org/) - Most known microblogging platform
-* [Pleroma](https://pleroma.social/) - Lightweight microblogging platform
-* [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform
-* [Misskey](https://joinmisskey.github.io/) - Sophisticated microblogging platform
-* [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform
-* [Osada](https://zotlabs.com/osada/) - Alternate blog / social networks platform with file, contacts and events sharing
-* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Blog / social networks platform with file, contacts and events sharing
-* [Friendica](https://friendi.ca/) - Social network platform
-* [Peertube](https://joinpeertube.org/) - Video sharing platform
-* [FunkWhale](https://funkwhale.audio/) - Audio sharing platform
-* [Plume](https://plume-org.github.io/Plume/) - Blogging platform
-* [WriteFreely](https://writefreely.org/) - Blogging platform
-* [Prismo](https://gitlab.com/mbajur/prismo) - Link aggregation platform
-* [PixelFed](https://pixelfed.org/) - Photograph sharing platform
-* [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging inside the cloud platform
+* [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
+* [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
+* [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
+* [Misskey](https://joinmisskey.github.io/) - Sophisticated microblogging platform.
+* [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
+* [Osada](https://zotlabs.com/osada/) - Alternate blog / social networks platform with file, contacts and events sharing.
+* [Hubzilla](https://project.hubzilla.org/page/hubzilla/hubzilla-project) - Blog / social networks platform with file, contacts and events sharing.
+* [Friendica](https://friendi.ca/) - Social network platform.
+* [Peertube](https://joinpeertube.org/) - Video sharing platform.
+* [FunkWhale](https://funkwhale.audio/) - Audio sharing platform.
+* [Plume](https://plume-org.github.io/Plume/) - Blogging platform.
+* [WriteFreely](https://writefreely.org/) - Blogging platform.
+* [Prismo](https://gitlab.com/mbajur/prismo) - Link aggregation platform.
+* [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
+* [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging inside the cloud platform.
 
 ## Tools
 
@@ -81,7 +81,7 @@
 * [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - Explore what's currently trending in Mastodon network.
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
-* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/?src=external-github-awesomelist) - Redirect clicks on remote follow/interaction buttons to your own instance. ([source code](https://github.com/rugk/mastodon-simplified-federation))
+* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/?src=external-github-awesomelist) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Mastodon Explorer](https://mastodon-explorer.netlify.com/) - Trending hashtags and popular toots, regenerated every hour.
 
 ## User styles
