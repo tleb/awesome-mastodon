@@ -8,19 +8,27 @@
 
 ## Contents
 
-* [Official](#official)
-* [Documentation](#documentation)
-* [Clients](#clients)
-* [Federated servers](#federated-servers)
-* [Tools](#tools)
-* [User styles](#user-styles)
-* [User scripts](#user-scripts)
-* [Bots](#bots)
-* [News & magazines bots](#news--magazines-bots)
-* [Associations](#associatons)
-* [Blogs](#blogs)
-* [Libraries](#libraries)
-* [Hosting](#hosting)
+- [Awesome Mastodon ![Awesome](https://github.com/sindresorhus/awesome) ![License: CC0](https://creativecommons.org/publicdomain/zero/1.0/)](#awesome-mastodon-awesomehttpsgithubcomsindresorhusawesome-license-cc0httpscreativecommonsorgpublicdomainzero10)
+  - [Contents](#contents)
+  - [Official](#official)
+  - [Documentation](#documentation)
+  - [Clients](#clients)
+  - [Federated servers](#federated-servers)
+  - [Tools](#tools)
+  - [User styles](#user-styles)
+  - [User scripts](#user-scripts)
+  - [Bots](#bots)
+  - [News & magazines bots](#news--magazines-bots)
+    - [English](#english)
+    - [Français](#fran%C3%A7ais)
+  - [Associations](#associations)
+    - [English](#english-1)
+    - [Français](#fran%C3%A7ais-1)
+  - [Blogs](#blogs)
+    - [English](#english-2)
+    - [Français](#fran%C3%A7ais-2)
+  - [Libraries](#libraries)
+  - [Hosting](#hosting)
 
 ## Official
 
@@ -51,6 +59,7 @@
 * [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
 * [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - Mastodon client for iOS.
+* [Mastonaut](https://itunes.apple.com/app/mastonaut/id1450757574) - Mastodon native client for MacOS.
 
 ## Federated servers
 
