@@ -73,7 +73,6 @@
 ## Tools
 
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
-* [Mastodon bridge](https://bridge.joinmastodon.org/) - Find your Twitter friends in the federated Mastodon network.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
