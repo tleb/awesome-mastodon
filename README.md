@@ -4,12 +4,11 @@
 
 > Curated list of Mastodon-related stuff!
 
-**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
+**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) category to learn more about the network.
 
 ## Contents
 
 * [Official](#official)
-* [Documentation](#documentation)
 * [Clients](#clients)
 * [Federated servers](#federated-servers)
 * [Tools](#tools)
@@ -26,13 +25,8 @@
 
 * [Website](https://joinmastodon.org)
 * [GitHub repository](https://github.com/tootsuite/mastodon)
-* [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
-
-## Documentation
-
-* [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
-* [Wiki](https://en.mstdn.wiki/Main_Page) - Mastodon Community Wiki.
-* [API overview](https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md)
+* [Documentation & official explaination](https://docs.joinmastodon.org/)
+* [API documentation](https://docs.joinmastodon.org/client/intro/)
 
 ## Clients
 
@@ -43,23 +37,20 @@
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
-* [Tootdon](http://tootdon.club) - Fully featured client for iOS and Android.
-* [Mastalab](https://github.com/stom79/mastalab) - Android client.
+* [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
-* [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
+* [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
-* [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
-* [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - Mastodon client for iOS.
+* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
+* [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 
 ## Federated servers
 
 * [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
 * [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
 * [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
-* [Misskey](https://joinmisskey.github.io/) - Sophisticated microblogging platform.
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
-* [Osada](https://zotlabs.com/osada/) - Alternate blog / social networks platform with file, contacts and events sharing.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
 * [Friendica](https://friendi.ca/) - Social network platform.
 * [Peertube](https://joinpeertube.org/) - Video sharing platform.
@@ -73,13 +64,11 @@
 ## Tools
 
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
-* [Mastodon bridge](https://bridge.joinmastodon.org/) - Find your Twitter friends in the federated Mastodon network.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
-* [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
-* [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
+* [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
 * [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/?src=external-github-awesomelist) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 
@@ -114,7 +103,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 * [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation.
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
-* [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
@@ -136,7 +124,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif.
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact.
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
-* [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde.
 
 ## Associations
 
@@ -158,11 +145,9 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### Français
 
-* [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films.
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale.
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
-* [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon.
 
 ## Libraries
 
