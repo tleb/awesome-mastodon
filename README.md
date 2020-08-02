@@ -56,7 +56,6 @@
 * [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
 * [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
 * [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
-* [Misskey](https://joinmisskey.github.io/) - Sophisticated microblogging platform.
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
 * [Osada](https://zotlabs.com/osada/) - Alternate blog / social networks platform with file, contacts and events sharing.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
