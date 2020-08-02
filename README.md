@@ -27,11 +27,6 @@
 * [Website](https://joinmastodon.org)
 * [GitHub repository](https://github.com/tootsuite/mastodon)
 * [Documentation & official explaination](https://docs.joinmastodon.org/)
-
-## Documentation
-
-* [What I wish I knew before joining Mastodon](https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b) - Introduction to Mastodon.
-* [Wiki](https://en.mstdn.wiki/Main_Page) - Mastodon Community Wiki.
 * [API documentation](https://docs.joinmastodon.org/client/intro/)
 
 ## Clients
