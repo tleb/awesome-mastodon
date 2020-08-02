@@ -108,7 +108,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 * [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation.
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
-* [@newsstream@quitter.im](https://quitter.im/newsstream) - NewsStream.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
