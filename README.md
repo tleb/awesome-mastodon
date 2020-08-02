@@ -72,7 +72,6 @@
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
-* [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 * [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
 * [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
