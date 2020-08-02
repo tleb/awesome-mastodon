@@ -129,7 +129,6 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 * [@mediapartbot@mastodon.xyz](https://mastodon.xyz/@mediapartbot) - Mediapart bot actif.
 * [@NextInpact@mamot.fr](https://mamot.fr/@NextInpact) - NextInpact.
 * [@reflets@mastodon.social](https://mastodon.social/@reflets) - Reflets.info.
-* [@TV5Monde@mamot.fr](https://mamot.fr/@TV5Monde) - TV5 Monde.
 
 ## Associations
 
