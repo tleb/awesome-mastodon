@@ -150,11 +150,9 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### Français
 
-* [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - Fossoyeur de Films.
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - Hygiène Mentale.
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - Journal du Hacker.
 * [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) - Korben (bot).
-* [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) - Kriss / Minute Papillon.
 
 ## Libraries
 
