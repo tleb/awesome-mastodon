@@ -4,12 +4,11 @@
 
 > Curated list of Mastodon-related stuff!
 
-**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) and [Documentation](#documentation) categories to learn more about the network.
+**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) category to learn more about the network.
 
 ## Contents
 
 * [Official](#official)
-* [Documentation](#documentation)
 * [Clients](#clients)
 * [Federated servers](#federated-servers)
 * [Tools](#tools)
