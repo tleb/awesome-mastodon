@@ -57,7 +57,6 @@
 * [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
 * [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
-* [Osada](https://zotlabs.com/osada/) - Alternate blog / social networks platform with file, contacts and events sharing.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
 * [Friendica](https://friendi.ca/) - Social network platform.
 * [Peertube](https://joinpeertube.org/) - Video sharing platform.
