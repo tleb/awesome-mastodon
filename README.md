@@ -47,7 +47,7 @@
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Whalebird](https://whalebird.org/en/desktop/contents) - Mastodon client for Mac OS.
+* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) - Minimalist, no-JS Web client for Mastodon.
 * [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - Mastodon client for iOS.
 
