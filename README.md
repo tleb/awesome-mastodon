@@ -45,6 +45,7 @@
 * [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
+* [Metatext](https://github.com/metabolist/metatext) -  A free, open-source iOS Mastodon client.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 
 ## Federated servers
