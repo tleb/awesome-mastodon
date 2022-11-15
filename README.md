@@ -105,7 +105,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 
 ### English
 
-* [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation.
+* [@fsf@hostux.social](https://hostux.social/@fsf) - FSF Free Software Foundation.
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
