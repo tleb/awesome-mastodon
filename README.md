@@ -43,7 +43,7 @@
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
 * [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
-* [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
+* [Planiverse](https://git.stjo.hn/planiverse) - Minimalist, no-JS Web client for Mastodon.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
 
