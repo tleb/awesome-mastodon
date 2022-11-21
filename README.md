@@ -66,6 +66,7 @@
 ## Tools
 
 * [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
+* [Mastodon Server List](https://mastodonservers.net) - List of Mastodon server instances.
 * [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
