@@ -46,6 +46,7 @@
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 * [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
+* [mastodon.el](https://codeberg.org/martianh/mastodon.el/) - GNU Emacs client for the Mastodon and Pleroma social networks.
 
 ## Federated servers
 
