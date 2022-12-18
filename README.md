@@ -53,6 +53,7 @@
 * [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
 * [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
 * [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
+* [Takahē](https://jointakahe.org/) - An efficient ActivityPub server for microblogging wit multiple domain support.
 * [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
 * [Friendica](https://friendi.ca/) - Social network platform.
 * [Peertube](https://joinpeertube.org/) - Video sharing platform.
