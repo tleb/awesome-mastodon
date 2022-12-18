@@ -62,6 +62,7 @@
 * [Prismo](https://gitlab.com/prismosuite/prismo) - Link aggregation platform.
 * [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
 * [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging inside the cloud platform.
+* [Bookwyrm](https://joinbookwyrm.com/) - Social reading and reviewing, decentralized with ActivityPub.
 
 ## Tools
 
