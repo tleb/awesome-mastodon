@@ -39,6 +39,7 @@
 * [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
 * [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
+* [Elk (alpha)](https://elk.zone) - Also an alternative web client for Mastodon, supports easy multi-user switch. Caution: Currently in alpha state (as of 2023-01-20).
 * [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
 * [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
