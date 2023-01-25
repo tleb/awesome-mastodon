@@ -30,6 +30,7 @@
 
 ## Clients
 
+* [Ivory](https://tapbots.com/ivory/) - Native iOS client for Mastodon, made by the creators of Tweetbot.
 * [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
 * [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
 * [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
