@@ -8,18 +8,26 @@
 
 ## Contents
 
-* [Official](#official)
-* [Clients](#clients)
-* [Federated servers](#federated-servers)
-* [Tools](#tools)
-* [User styles](#user-styles)
-* [User scripts](#user-scripts)
-* [Bots](#bots)
-* [News & magazines bots](#news--magazines-bots)
-* [Associations](#associatons)
-* [Blogs](#blogs)
-* [Libraries](#libraries)
-* [Hosting](#hosting)
+- [Awesome Mastodon  ](#awesome-mastodon--)
+  - [Contents](#contents)
+  - [Official](#official)
+  - [Clients](#clients)
+  - [Federated servers](#federated-servers)
+  - [Tools](#tools)
+  - [User styles](#user-styles)
+  - [User scripts](#user-scripts)
+  - [Bots](#bots)
+  - [News \& magazines bots](#news--magazines-bots)
+    - [English](#english)
+    - [Français](#français)
+  - [Associations](#associations)
+    - [English](#english-1)
+    - [Français](#français-1)
+  - [Blogs](#blogs)
+    - [English](#english-2)
+    - [Français](#français-2)
+  - [Libraries](#libraries)
+  - [Hosting](#hosting)
 
 ## Official
 
@@ -30,50 +38,52 @@
 
 ## Clients
 
-* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
-* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
-* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
+* [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
+* [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
+* [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
+* [Ivory](https://tapbots.com/ivory/) - Paid iOS client from Tapbots
 * [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
 * [naumanni](https://github.com/naumanni/naumanni) - Web user interface specially designed for Mastodon.
-* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
-* [Fedilab](https://framagit.org/tom79/fedilab) - Android client.
 * [Pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon, focused on speed and simplicity.
-* [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
-* [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
-* [Halcyon](https://notabug.org/halcyon-suite/halcyon) - Alternative web client for Mastodon and Pleroma with a Twitter-like interface.
-* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
 * [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
-* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 * [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
+* [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
+* [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
+* [Tooter](https://github.com/dysk0/harbour-tooter) - Native client for SailfishOS.
+* [Tootle](https://github.com/bleakgrey/tootle) - Simple Mastodon client designed for elementary OS.
+* [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
+* [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
+* [Twidere](https://f-droid.org/packages/org.mariotaku.twidere/) - Android app for Twitter, GNU Social and Mastodon.
+* [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
 
 ## Federated servers
 
-* [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
-* [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
-* [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
-* [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
-* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
 * [Friendica](https://friendi.ca/) - Social network platform.
-* [Peertube](https://joinpeertube.org/) - Video sharing platform.
 * [FunkWhale](https://funkwhale.audio/) - Audio sharing platform.
-* [Plume](https://joinplu.me/) - Blogging platform.
-* [WriteFreely](https://writefreely.org/) - Blogging platform.
-* [Prismo](https://gitlab.com/prismosuite/prismo) - Link aggregation platform.
-* [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
+* [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
+* [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
+* [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
 * [NextCloud Social](https://apps.nextcloud.com/apps/social) - Microblogging inside the cloud platform.
+* [Peertube](https://joinpeertube.org/) - Video sharing platform.
+* [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
+* [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
+* [Plume](https://joinplu.me/) - Blogging platform.
+* [Prismo](https://gitlab.com/prismosuite/prismo) - Link aggregation platform.
+* [WriteFreely](https://writefreely.org/) - Blogging platform.
 
 ## Tools
 
-* [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
-* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
-* [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
-* [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
-* [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
-* [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
-* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
+* [Fediverse Party](https://fediverse.party/en/mastodon/) - Find Mastodon communities by hashtag.
+* [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
+* [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
+* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
+* [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
+* [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
+* [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
+* [unmung.com/mastoview](http://www.unmung.com/mastoview) - Preview the local or federated timeline of any instance.
 
 
 ## User styles
