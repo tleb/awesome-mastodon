@@ -74,6 +74,7 @@
 * [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 * [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 * [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
+* [Mastodon Widgets](https://github.com/splitbrain/mastodon-widget) - Javascript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.
 
 
 ## User styles
